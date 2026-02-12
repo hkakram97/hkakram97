@@ -55,7 +55,7 @@
 
 - 📧 Email: hkakram97@gmail.com  
 - 💼 LinkedIn: [https://linkedin.com/in/hamza-akram](https://www.linkedin.com/in/muhammad-hamza-akram-akram/)  
-- 🌐 Portfolio: (Coming soon :)  
+- 🌐 Portfolio: [hamza-akram](https://hamza-akram.vercel.app/)  
 
 ---
 
