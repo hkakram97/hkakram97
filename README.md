@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 5+ years of experience in Frontend Development (React.js, JavaScript)
+- 🔥 6+ years of experience in Frontend Development (React.js, JavaScript)
 - 🧠 Currently transitioning into Full-Stack development (Node.js + NestJS)
 - 🏨 Working on a Hotel Inventory & Booking Management System
 - 🤖 Interested in Agentic AI, AI Interfaces, real-time avatars, and low-latency systems
